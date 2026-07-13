@@ -2,7 +2,7 @@
 
 **MEng Electronic and Electrical Engineering at UCL · ML systems · market infrastructure · embedded engineering**
 
-I build systems that turn noisy signals into reliable decisions — from transformer hidden states and local vector memory to **live order books**, control loops, and custom electronics.
+I build systems that turn noisy signals into reliable decisions.
 
 ## Selected work
 
