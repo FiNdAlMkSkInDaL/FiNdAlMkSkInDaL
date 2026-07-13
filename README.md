@@ -1,12 +1,12 @@
 # Finlay Phillips
 
-**MEng Electronic and Electrical Engineering at UCL · ML systems · market infrastructure · embedded engineering**
+**MEng Electronic and Electrical Engineering at UCL · ML systems · Market Infrastructure · Embedded Engineering**
 
 I build systems that turn noisy signals into reliable decisions.
 
 ## Selected work
 
-- **[tickforge](https://github.com/FiNdAlMkSkInDaL/tickforge)** — High-performance C++23 limit order book, matching engine, and Avellaneda-Stoikov market maker with Polymarket-style integer-tick CLOB. Achieves multi-million ops/s throughput with queue-position tracking for adverse selection, deterministic simulator, fee-aware P&L, equity-curve export, and full test/benchmark coverage.
+- **[tickforge](https://github.com/FiNdAlMkSkInDaL/tickforge)** — High-performance C++ limit order book, matching engine, and Avellaneda-Stoikov market maker. Achieves multi-million ops/s throughput with queue-position tracking.
 
 - **[Identity](https://github.com/FiNdAlMkSkInDaL/Identity)** — A local-first Rust daemon and `.me` protocol for encrypted, user-owned context and scoped memory sharing with AI agents.
 
@@ -30,7 +30,7 @@ I build systems that turn noisy signals into reliable decisions.
 
 ## How I work
 
-I care about measurable evaluation, explicit failure states and systems that remain understandable after the demo.
+I care about measurable evaluation, explicit error handling, and systems that remain understandable.
 
 ## Outside engineering
 
