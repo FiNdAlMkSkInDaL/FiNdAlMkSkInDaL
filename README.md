@@ -6,7 +6,7 @@ I build systems that turn noisy signals into reliable decisions.
 
 ## Selected work
 
-- **[tickforge](https://github.com/FiNdAlMkSkInDaL/tickforge)** — High-performance C++ limit order book, matching engine, and Avellaneda-Stoikov market maker. Achieves multi-million ops/s throughput with queue-position tracking.
+- **[Tickforge](https://github.com/FiNdAlMkSkInDaL/tickforge)** — High-performance C++ limit order book, matching engine, and Avellaneda-Stoikov market maker. Achieves multi-million ops/s throughput with queue-position tracking.
 
 - **[Identity](https://github.com/FiNdAlMkSkInDaL/Identity)** — A local-first Rust daemon and `.me` protocol for encrypted, user-owned context and scoped memory sharing with AI agents.
 
