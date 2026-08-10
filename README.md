@@ -1,4 +1,4 @@
-# Finlay Phillips
+# Finlay Phillips | https://findalmkskindal.github.io/
 
 **MEng Electronic and Electrical Engineering at UCL · ML systems · Market Infrastructure · Embedded Engineering**
 
