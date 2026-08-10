@@ -1,8 +1,9 @@
-# Finlay Phillips | https://findalmkskindal.github.io/
+# Finlay Phillips
 
 **MEng Electronic and Electrical Engineering at UCL · ML systems · Market Infrastructure · Embedded Engineering**
 
 I build systems that turn noisy signals into reliable decisions.
+Portfolio website: https://findalmkskindal.github.io/
 
 ## Selected work
 
