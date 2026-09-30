@@ -16,7 +16,7 @@ Portfolio website: https://findalmkskindal.github.io/
 
 - **[Macro Bias](https://github.com/FiNdAlMkSkInDaL/Macro-Bias)** — An automated equity and crypto research platform with quantitative scoring, daily briefings, track records, paper trading and multi-channel distribution.
 
-- **[AI Chessathon](https://github.com/FiNdAlMkSkInDaL/Chessthon)** — A Numba chess agent for AI Chessathon 2026, with a local harness that uses the official protocol and clock. Storm v4 scored 82.5% over a fixed 40-game match against the signed v3 baseline, with no operational failures.
+- **[AI Chessathon](https://github.com/FiNdAlMkSkInDaL/Chessthon)** — A Numba chess agent for AI Chessathon 2026, with a local harness that uses the official protocol and clock.
 
 - **[Latent Control Lab](https://github.com/FiNdAlMkSkInDaL/Zero-Dimensional-API)** — An ML experiment that maps frozen DistilGPT-2 hidden states to deterministic actions through a confidence-gated probe.
 
